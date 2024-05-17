@@ -3,7 +3,7 @@ A Library to keep track of all the research papers I want to read or have read
 
 Tags: 
 <ul>
-    <li><span style="color:#9FE2BF">tensor networks</span></li>
+    <li> ![#ff1778] tensor networks</span></li>
     <li><span style="color:#6495ED">hpc</span></li>
     <li><span style="color:#CCCCFF">variational</span></li>
     <li><span style="color:#DE3163">physics</span></li>
